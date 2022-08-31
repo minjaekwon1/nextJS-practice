@@ -1,0 +1,21 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server2.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "description": ""
+}
